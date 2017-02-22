@@ -1,3 +1,4 @@
+# Weather App with Android Wear Support
 Udacity Android Developer Nanodegree project
-
-Create an Android wear version of Sunshine app
+## Getting Started
+1. Download a copy of this repo
