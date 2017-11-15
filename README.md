@@ -1,5 +1,5 @@
-# Weather App with Android Wear Support
-Udacity Android Developer Nanodegree project
+# Weather Android App with Android Wear Support
+Sunshine is a Weather app for Android and Android Wear utilizing the openweather.org API for the Udacity Android Developer Nanodegree course supporting exercise
 ## Getting Started
 1. Download a copy of this repo
 1. Get free API key from OPENWEATHERMAP.ORG
